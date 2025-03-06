@@ -22,7 +22,7 @@ Devin impressed many by acting like an intern who writes its own plan, updates t
    pip install cookiecutter
 
    # Create a new project
-   cookiecutter git@github.com:haokunchen0/devin.cursorrules.git --checkout template
+   cookiecutter git@github.com:haokunchen0/devin.cursorrules.git --checkout template -y
    ```
 
    **Option 2: Manual Setup**
